@@ -14,19 +14,19 @@
     "Preposition Phrases"
   ],
   "ingVsInfDict": {
-    "try": "try doing - general situation;\n try to - special case",
+    "try": "try doing - general situation; try to - special case",
     "decide": "decide to",
     "enjoy": "enjoy doing something",
     "manage": "manage to",
-    "start": "start to \n start doing something",
-    "stop": "stop doing - give up \n stop to - stop in order to do something",
+    "start": "start to start doing something",
+    "stop": "stop doing - give up stop to - stop in order to do something",
     "regret":
-      "regret doing - regret that you did something \n regret to - regret that you are doing it now",
+      "regret doing - regret that you did something regret to - regret that you are doing it now",
     "remember":
-      "remember doing - remember the way something happened \n remember to - check if you didn;t forget something",
-    "keep": "continue doing something \n keep learning new words",
-    "like": "like to speak English \n like speaking English",
-    "hate": "don't like something extremely \n hate to smoke \n hate smoking",
+      "remember doing - remember the way something happened remember to - check if you didn;t forget something",
+    "keep": "continue doing something keep learning new words",
+    "like": "like to speak English like speaking English",
+    "hate": "don't like something extremely hate to smoke hate smoking",
     "postpone": "postpone doing something",
     "forget": "forget to",
     "consider":
@@ -61,30 +61,30 @@
   ],
   "work_and_study": {
     "get down to":
-      "to start doing something seriously or with a lot of effort \n After lunch we got down to discussing the issue of pay.",
+      "to start doing something seriously or with a lot of effort After lunch we got down to discussing the issue of pay.",
     "keep up with":
-      "to make progress or learn at the same speed as someone or something \n I'm trying to keep up with the other students",
+      "to make progress or learn at the same speed as someone or something I'm trying to keep up with the other students",
     "take down":
-      "to record in writing after somebody speaking \n Listen carefully and take down all I'm saying",
+      "to record in writing after somebody speaking Listen carefully and take down all I'm saying",
     "fall behind with":
-      " to make less progress or be less successful than others \n My daughter is falling behind with her school work.",
+      " to make less progress or be less successful than others My daughter is falling behind with her school work.",
     "hand in":
-      "to pass a document to someone in a position of authority \n hand in a homewok to a teacher ",
+      "to pass a document to someone in a position of authority hand in a homewok to a teacher ",
     "put off":
-      "to change the time or date of something so that it happens later than originally planned \n Let's put off the meeting",
-    "get through": "pass an examination \n get throug an exam",
+      "to change the time or date of something so that it happens later than originally planned Let's put off the meeting",
+    "get through": "pass an examination get throug an exam",
     "scrape through":
-      "to pass something with a lot of difficulties \n scrape through an exam",
+      "to pass something with a lot of difficulties scrape through an exam",
     "pass with flying colors":
-      "to pass with great success \n We passed the exams with flying colors",
+      "to pass with great success We passed the exams with flying colors",
     "burn the midnight oil": "to work until very late at night",
     "learn parrot fashion":
       "learning something without thinking about it or understanding it properly",
     "by the skin of... teeth":
-      "almost fail \n  I got through physics class by the skin of my teeth",
+      "almost fail  I got through physics class by the skin of my teeth",
     "catch up with": "to reach the same standard as everybody else",
     "go through":
-      "check something or read it quickly \n I went through my notes before presentation"
+      "check something or read it quickly I went through my notes before presentation"
   },
   "tenses": [
     "Present Simple",
@@ -108,24 +108,23 @@
     "the other day": "",
     "come up with...": "",
     "check with...": "",
-    "be fixed": "Talk about your plans \n How are you fixed this week?",
+    "be fixed": "Talk about your plans How are you fixed this week?",
     "pencil in":
-      "not stable agreement \n Let's pencil in tomorrow's meeting, but I'm still not sure",
-    "firm up": "strong agreement \n I;ll firm up the agreement when I;m sure",
+      "not stable agreement Let's pencil in tomorrow's meeting, but I'm still not sure",
+    "firm up": "strong agreement I;ll firm up the agreement when I;m sure",
     "take... further over...":
-      "continue something during something else \n Let's take this discussion further over lunch",
-    "suit": "be comfortable \n Does it suit you?",
+      "continue something during something else Let's take this discussion further over lunch",
+    "suit": "be comfortable Does it suit you?",
     "iron out":
-      "to come to agreement after long discussion \n After 2 hours we finally ironed out the terms of the contract",
+      "to come to agreement after long discussion After 2 hours we finally ironed out the terms of the contract",
     "talk through":
-      "to discuss something in details \n I'd like to talk this matter through",
-    "suspicious": "something that you don't trust to \n Suspicious man ",
-    "wonder":
-      "A polite way to ask for something \n I wonder if you could help me",
+      "to discuss something in details I'd like to talk this matter through",
+    "suspicious": "something that you don't trust to Suspicious man ",
+    "wonder": "A polite way to ask for something I wonder if you could help me",
     "How about...?": "How about helping me?",
-    "suggest": "recommend something \n I suggest having dinner",
+    "suggest": "recommend something I suggest having dinner",
     "get back to...":
-      "call back by the phone \n Could you come back to me when you're sure?"
+      "call back by the phone Could you come back to me when you're sure?"
   },
   "gardening": [
     "hoe",
@@ -175,7 +174,7 @@
     "walk in the park",
     "play couch potato",
     "hate",
-    "can\"t stand",
+    "can't stand",
     "be keen on",
     "visit",
     "do the dishes",
@@ -245,14 +244,12 @@
     "stand for",
     "bump into"
   ],
-  // "presentations":  ["see the project through","suggest", "propose", "put off a project", "look into", "fill in with", "pan out", "cautiously", "diversify", "look into", "take over", "premises", "be stuck in ways", "turnaround time"],
-  // "presentations2": ["better off", "handy", "fuss", "fussy", "go off", "hear about", "off-day", "turn up", "stalemate", "for ages", "take after", "might as well", "do up", "show off", "cope with", "make a fuss of", "come over", "ask over", "own up", "get a back on"],
   "past_perfect1": [
     "by the time we arrived",
     "when we got to the theatre",
     "calm down",
     "stop snowing",
-    "inspect somebody\"s passport",
+    "inspect somebody's passport",
     "tidy everything up",
     "finish a pizza",
     "have a shower",
@@ -302,7 +299,7 @@
     "be sluggish"
   ],
   "leavetaking": [
-    "as soon as\n I will get back to you\n as soon as I\"ve checked with my boss",
+    "as soon asI will get back to youas soon as I've checked with my boss",
     "email decision",
     "put... in writing",
     "get back to...",
@@ -311,7 +308,7 @@
     "set up a deadline",
     "new costings",
     "a modified projection",
-    "get something done\nI need to get this document signed",
+    "get something done. I need to get this document signed",
     "recap (on...)",
     "get caught up",
     "draw up",

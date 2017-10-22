@@ -1,0 +1,51 @@
+.main {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 5rem auto;
+  width: 90vw;
+}
+
+.sidebar {
+  display: flex;
+  flex: 0 0 15%;
+  width: 15%;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  flex: 0 0 auto;
+}
+
+.list__item {
+  text-align: center;
+}
+
+.wrapper {
+  display: flex;
+  flex: 0 0 auto;
+}
+
+.card {
+  border: 1px solid black;
+  flex: 1 1 25%;
+  height: 60vh;
+  max-height: 20rem;
+  margin: 0.5rem;
+  width: 24vw;
+}
+
+.input {
+  display: block;
+  flex: 0 0 100%;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}

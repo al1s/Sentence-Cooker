@@ -2,13 +2,11 @@ import React from 'react';
 import { render } from 'react-dom';
 import SideBar from './SideBar';
 import CardsWrapper from './CardsWrapper';
-import TopicList from './TopicList';
+import UInput from './UInput';
 
 const App = () => (
   <div className="main">
-    <SideBar>
-      <TopicList />
-    </SideBar>
+    <SideBar />
     <CardsWrapper />
     <UInput />
   </div>

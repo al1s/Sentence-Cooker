@@ -1,8 +1,9 @@
 import React from 'react';
+import TopicList from './TopicList';
 
-const SideBar = props => (
+const SideBar = () => (
   <div className="sidebar">
-    {props.children}
+    <TopicList />
   </div>
 );
 
